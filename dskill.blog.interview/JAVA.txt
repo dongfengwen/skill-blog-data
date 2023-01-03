@@ -1,0 +1,22 @@
+1、ArrayList和LinkedList区别，什么时候用ArrayList？
+
+
+使用场景：
+ (1) 如果应用程序对数据有较多的随机访问，ArrayList对象要优于LinkedList对象；
+
+ (2) 如果应用程序有更多的插入或者删除操作，较少的随机访问，LinkedList对象要优于ArrayList对象；
+
+ (3) 不过ArrayList的插入，删除操作也不一定比LinkedList慢，
+ 如果在List靠近末尾的地方插入，那么ArrayList只需要移动较少的数据，
+ 而LinkedList则需要一直查找到列表尾部，反而耗费较多时间，这时ArrayList就比LinkedList要快。
+
+2、线程创建的8种方式
+
+3、ThreadPoolExecutor类的核心参数，线程池大小怎么决定？
+
+4、设计模式概念，用过哪些
+
+5、
+6、
+7、
+8、

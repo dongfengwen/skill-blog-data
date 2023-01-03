@@ -1,0 +1,10 @@
+1、说说MySQL有哪些常用存储引擎。
+2、InnoDB和MyISAM区别点？
+3、Redis有哪些数据结构，你常用的是哪些？
+4、Redis能干什么，为什么高性能？
+5、Redis缓存数据是怎么实现的
+6、union和unionall区别
+
+
+7、
+8、
